@@ -1,2 +1,2 @@
-import TCE as run
-run()
+import os
+os.system('python TCE.pyc')
